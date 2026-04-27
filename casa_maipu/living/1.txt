@@ -1,1 +1,2 @@
 -reparar el tope final de las cortinas
+Pasillo: cambiar soquete de luz pasillo

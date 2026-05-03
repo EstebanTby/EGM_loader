@@ -1,4 +1,3 @@
--Destapar desague ducha
 Puerta:
 -medir la puerta alto, ancho, espesor, medir la pocision agujero de manilla
 -en internet ver al medida de la broca de agujero estandar para puerta, consultar si la tengo yo o mi tio
